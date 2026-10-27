@@ -1,0 +1,3 @@
+# ALL-nál elég csak az egyiknek sikeresnek lennie
+GT4500,1,1,1,0
+TORPEDO,ALL

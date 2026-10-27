@@ -1,0 +1,4 @@
+# Ha a secondary empty, a másikat tüzeli
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
