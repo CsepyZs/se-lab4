@@ -1,0 +1,3 @@
+# Plusz tesz 3
+GT4500,1,1,1,1
+TORPEDO,ALL
