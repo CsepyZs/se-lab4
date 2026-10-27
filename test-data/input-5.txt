@@ -1,0 +1,3 @@
+# Ha a primary hibázik nem tüzel a secondaryval
+GT4500,1,1,1,0
+TORPEDO,SINGLE
